@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityas-ops
+- 👋 Hi, I’m Aditya Sharma.
 - 👀 I’m interested in Blockchain Development.
 - 🌱 I’m currently learning Data Structure and Algorithm & Web Development.
 - 📫 How to reach me : adityakushinagar123@gmail.com
