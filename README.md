@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma.</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/85329735/190844628-dc13ac7c-5ef8-4a8c-a4bf-962ec3c6996e.png)
 
-">
+<img align="right" alt-"coding"alt="coding" width="400" sre="https://user-images.githubusercontent.com/55389276/140866485-8fblc876-9a8-4d6a-98dc-08c498leaf70.gif'>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityas-ops&label=Profile%20views&color=0e75b6&style=flat" alt="adityas-ops" /> </p>
 
