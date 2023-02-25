@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityas-ops&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/ADITYAOPS)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=adityaops&theme=dracula&response=true&border=true&time=true&icon=default"/></a>)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
