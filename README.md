@@ -12,8 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityas-ops&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityas-ops&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Coding Stats:
-<figure><embed src="https://wakatime.com/share/@8b5cb5a6-32bc-4e08-b083-360b215e4edd/3202e982-d299-4667-92e0-1729d62c914b.svg"></embed></figure>
+## Wakatime Stats
+ <p>
+    <img src="https://wakatime.com/share/@8b5cb5a6-32bc-4e08-b083-360b215e4edd/3202e982-d299-4667-92e0-1729d62c914b.svg" height="320" width="420">
+ </p> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
