@@ -17,7 +17,7 @@
     <img src="https://wakatime.com/share/@8b5cb5a6-32bc-4e08-b083-360b215e4edd/3202e982-d299-4667-92e0-1729d62c914b.svg" height="320" width="420">
    <img src="https://wakatime.com/share/@8b5cb5a6-32bc-4e08-b083-360b215e4edd/a526bc91-d5d4-49f4-812a-218565e211af.svg" height="320" width="420">
  </p> 
- 
+ ## MonkeyType Stats
   <a href="https://monkeytype.com/profile/goldmare">
    <img src="https://raw.githubusercontent.com/adityas-ops/adityas-ops/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
  </a>
