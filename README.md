@@ -1,5 +1,5 @@
 ## 💫 About Me:
-☘️My name is Aditya Sharma.<br>📍I'm from Gorakhpur.<br>🌐 Exploring the digital frontier.<br>🧑🏻‍💻Frontend Developer & B.Tech CS student.<br>🚀Passionate about Web3, blockchain, and all things tech <br>☕Coffee-fueled coder.
+☘️My name is Aditya Sharma.<br>📍I'm from Gorakhpur.<br>🌐 Exploring the digital frontier.<br>🧑🏻‍💻Frontend Developer & B.Tech CS student.<br>🚀Passionate about Web3, blockchain, and all things tech. <br>☕Coffee-fueled coder.
 
 
 ## 🌐 Socials:
