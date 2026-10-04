@@ -84,6 +84,16 @@ HEAD -> main  fix: still shipping, still learning 🔥
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adityas-ops/adityas-ops/output/github-snake-orange.svg" alt="Contribution snake" width="100%" />
+
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
