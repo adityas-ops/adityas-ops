@@ -1,17 +1,116 @@
-## 💫 About Me:
-☘️My name is Aditya Sharma.<br>🌐 Exploring the digital frontier.<br>☕Coffee-fueled coder.
+<!-- Create a public repo named exactly "adityas-ops" and put this file in it as README.md -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/goldminati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-ops/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@adityakushinagar123) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/adityakushinagar123/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/ADITYA-SHARMA-10611) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ADITYAOPS) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,55:4A1E0F,100:E85D2A&height=230&section=header&text=ADITYA%20SHARMA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Shipping%20apps%20that%20real%20people%20use&descAlignY=60&descSize=17&descColor=F2B8A0" width="100%" />
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="https://github.com/adityas-ops">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=E85D2A&center=true&vCenter=true&width=720&lines=Frontend+Developer+%7C+2%2B+Years+Experience;I+ship+apps+to+Play+Store+%26+App+Store;100k%2B+downloads+%7C+13k+monthly+active+users;React+Native+%2B+TypeScript+all+day" alt="Typing SVG" />
+</a>
 
-             
+<br/><br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://adityaops.vercel.app/"><img src="https://img.shields.io/badge/VIEW_WORK-adityaops.vercel.app-E85D2A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0F" /></a>
+<a href="https://www.linkedin.com/in/aditya-ops/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-E85D2A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F" /></a>
+<img src="https://komarev.com/ghpvc/?username=adityas-ops&label=PROFILE%20VIEWS&color=E85D2A&labelColor=0A0A0F&style=for-the-badge" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityas-ops&icon=5&color=1)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+```ts
+const aditya = {
+  role: "Frontend Developer (React Native)",
+  experience: "2+ years at Civil Guruji",
+  owns: "Complete frontend of the Civil Guruji app, end-to-end",
+  superpower: "Idea → architecture → Play Store & App Store release",
+  currentlyBuilding: ["DevHub", "Interview Guru"],
+  openTo: "React Native / Mobile Developer roles 🚀",
+};
+```
+
+---
+
+## ⌨️ `$ ls ./shipped`
+
+<div align="center">
+
+| App | What it does | Get it |
+|:---|:---|:---:|
+| 📱 **Civil Guruji** | Production app with **100k+ downloads** and **13k MAU**. Auth, payments, Google Maps, deep links, push notifications. | <!-- TODO: store link --> |
+| 🏠 **Grihub** | Second app shipped from the Civil Guruji ecosystem. | <!-- TODO: store link --> |
+| 🤖 **Interview Guru** | AI mock interviews with scoring and feedback. | <!-- TODO: Play Store link --> |
+| 🐙 **DevHub** | GitHub client for mobile: trending repos, starred repos, full file code viewer. | [![Play Store](https://img.shields.io/badge/Google_Play-E85D2A?style=flat-square&logo=google-play&logoColor=white&labelColor=0A0A0F)](https://play.google.com/store/apps/details?id=com.devhub) |
+
+</div>
+
+---
+
+## 🧾 `$ git log --oneline`
+
+```bash
+e85d2a1 feat: own the complete Civil Guruji frontend, end-to-end
+c0d3b0t feat: ship to Play Store AND App Store
+a11ce55 feat: auth, payments, maps, deep links, push notifications
+b4d9f1e feat: launch Grihub from the Civil Guruji ecosystem
+7f3a9c2 feat: Interview Guru, AI mock interviews that score you
+d3vhub0 feat: DevHub, a GitHub client in your pocket
+HEAD -> main  fix: still shipping, still learning 🔥
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,firebase,redux,tailwind,androidstudio,xcode,git,github,figma,vscode,postman&theme=dark" />
+
+</div>
+
+<div align="center">
+
+| Area | What I use |
+|:---|:---|
+| 📱 Mobile | React Native (Expo + bare CLI), NativeWind |
+| 🧠 State | Redux Toolkit, Zustand |
+| 🔐 Auth | OAuth, Firebase |
+| 🔌 Integrations | REST APIs, payment gateways, Google Maps, push, deep linking |
+| 🚢 Release | Play Store and App Store publishing |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityas-ops&show_icons=true&count_private=true&bg_color=0A0A0F&title_color=E85D2A&icon_color=E85D2A&text_color=C9C9CF&border_color=2A2A33" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityas-ops&layout=compact&bg_color=0A0A0F&title_color=E85D2A&text_color=C9C9CF&border_color=2A2A33" />
+
+<img src="https://streak-stats.demolab.com/?user=adityas-ops&background=0A0A0F&ring=E85D2A&fire=E85D2A&currStreakLabel=E85D2A&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9C9CF&dates=8A8A93&border=2A2A33" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityas-ops&bg_color=0A0A0F&color=E85D2A&line=E85D2A&point=FFFFFF&area=true&area_color=E85D2A&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aditya-ops/"><img src="https://img.shields.io/badge/LinkedIn-aditya--ops-E85D2A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F" /></a>
+<a href="https://adityaops.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-E85D2A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0F" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-E85D2A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F" /></a>
+
+<br/><br/>
+
+*"Ship it, measure it, improve it."* ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E85D2A,50:4A1E0F,100:0A0A0F&height=110&section=footer" width="100%" />
+
+</div>
