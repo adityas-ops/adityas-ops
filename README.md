@@ -42,7 +42,7 @@ const aditya = {
 | 📱 **Civil Guruji** | Production app with **100k+ downloads** and **13k MAU**. Auth, payments, Google Maps, deep links, push notifications. | <!-- TODO: store link --> |
 | 🏠 **Grihub** | Second app shipped from the Civil Guruji ecosystem. | <!-- TODO: store link --> |
 | 🤖 **Interview Guru** | AI mock interviews with scoring and feedback. | <!-- TODO: Play Store link --> |
-| 🐙 **DevHub** | GitHub client for mobile: trending repos, starred repos, full file code viewer. | [![Play Store](https://img.shields.io/badge/Google_Play-E85D2A?style=flat-square&logo=google-play&logoColor=white&labelColor=0A0A0F)](https://play.google.com/store/apps/details?id=com.devhub) |
+| 🐙 **GitFlame** | GitHub client for mobile: trending repos, starred repos, full file code viewer. | [![Play Store](https://img.shields.io/badge/Google_Play-E85D2A?style=flat-square&logo=google-play&logoColor=white&labelColor=0A0A0F)](https://play.google.com/store/apps/details?id=com.devhub) |
 
 </div>
 
